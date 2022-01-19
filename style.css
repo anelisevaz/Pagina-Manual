@@ -365,7 +365,7 @@ header{
     flex-direction: column-reverse;
   }
 }
-@media (max-width: 364px) {
+@media (max-width: 351px) {
   .links{
     display: flex;
     flex-direction: column;
