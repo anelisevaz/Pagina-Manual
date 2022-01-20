@@ -11,8 +11,8 @@
 }
 
 :root{
-  --main-color: #008178;
-  --second-color: #1e3932;
+  --main-color: #367F82;
+  --second-color: #01292B;
 }
 
 section{
@@ -80,8 +80,9 @@ header{
   display: flex;
   flex-wrap: wrap;
   align-items: center;
-  background: #ebdbc8;
+  background: #fff;
   gap: 1rem;
+  border-bottom: 0.4px solid #5ce1e6;
 }
 
 .home-text{
