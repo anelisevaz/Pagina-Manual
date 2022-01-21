@@ -169,7 +169,7 @@ header{
 .shop-container .box{
   flex: 1 1 10rem;
   background: var(--main-color);
-  padding: 20px;
+  padding: 18px;
   display: flex;
   text-align: center;
   flex-direction: column;
@@ -206,6 +206,7 @@ header{
   margin: 0.2rem 0 0.5rem;
 }
 .box .btn{
+  margin: 13px 1px 1px 1px;
   border: 2px solid #ebdbc8;
   color: #ebdbc8;
 }
@@ -239,7 +240,7 @@ header{
 .about{
   display: flex;
   flex-wrap: wrap;
-  background: #ebdbc8;
+  background: #fff;
   gap: 1.5rem;
 }
 .about-img{
@@ -260,6 +261,7 @@ header{
   display: flex;
   flex-direction: column;
   align-items: center;
+  background: #5ce1e630;
 }
 .social a{
   font-size: 27px;
