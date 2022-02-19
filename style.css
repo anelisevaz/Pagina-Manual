@@ -67,7 +67,7 @@ header{
   color: var(--main-color);
 }
 
-#menu-icon {
+#menu-icon{
   font-size: 24px;
   cursor: pointer;
   z-index: 1001;
