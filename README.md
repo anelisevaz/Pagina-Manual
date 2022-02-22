@@ -1,3 +1,7 @@
+<p align="center">
+<img src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge"/>
+</p><br>
+
 <h1>Acesse a página:<a href="https://anelisevaz.github.io/Pagina-Manual/" target="_blank">
 Ajuda, Curiosidades e Configurações<a/></h1>
 
